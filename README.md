@@ -7,4 +7,4 @@ npm install
 
 Start the development server:
 After the dependencies are installed, you can start the development server by running:
-npm start
+npm run dev
